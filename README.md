@@ -17,8 +17,8 @@ This project involves developing a voice detection and recognition system capabl
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name/voice-detection-game.git
-   cd voice-detection-game
+   git clone https://github.com/Abib-web/Voice-Detection-and-Real-Time-Control-Project.git
+   cd Voice-Detection-and-Real-Time-Control-Project
    ```
 2. Open MATLAB and navigate to the project directory.
 3. Ensure all required dependencies are installed in MATLAB.
@@ -40,7 +40,7 @@ Use voice commands like "Haut," "Bas," "Gauche," and "Droite" to control the cur
 ## Example Game Screenshot
 Below is an example of the game environment controlled by voice commands:
 
-![Game Environment](./images/game_environment.png)
+![Game Environment](https://github.com/Abib-web/Voice-Detection-and-Real-Time-Control-Project/blob/c01708dcb1c8e47d10eaacddd7ba7633fd5177f9/game_environment.png)
 
 ## File Structure
 - `GEI1090_Prog_Acquisition.m`: MATLAB script for data acquisition.
