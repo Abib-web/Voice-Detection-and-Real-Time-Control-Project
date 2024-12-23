@@ -1,0 +1,5 @@
+# Ignore audio folders and files inside them
+sons_audio/**
+sons_audio/
+*.wav
+*.mp3
