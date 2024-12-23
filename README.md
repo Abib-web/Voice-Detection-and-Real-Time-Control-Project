@@ -46,7 +46,6 @@ Below is an example of the game environment controlled by voice commands:
 - `GEI1090_Prog_Acquisition.m`: MATLAB script for data acquisition.
 - `GEI1090_Prog_Traitement.m`: MATLAB script for processing and training models.
 - `sons_audio/`: Directory for storing audio recordings.
-- `images/`: Directory containing project images.
 
 ## Contributors
 - **Oumar Kone**
